@@ -2,10 +2,12 @@ h1, h2 {
 	font-family: 'Oswald', sans-serif;
 }
 h1 {
-	font-size: 80px;
+	font-size: 90px;
+	margin-bottom: 10px;
 }
-h1 {
-	font-size: 40px;
+h2 {
+	font-size: 30px;
+	margin-bottom: 25px;
 }
 #body {
 	text-align: center;
