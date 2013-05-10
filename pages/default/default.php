@@ -2,7 +2,7 @@
 
 $this->title = '#BetterThanCourtside';
 
-$this->css[] 'http://fonts.googleapis.com/css?family=Oswald:700';
+$this->css[] = 'http://fonts.googleapis.com/css?family=Oswald:700';
 
 $this->template('html5', 'top');
 
